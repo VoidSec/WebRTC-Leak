@@ -9,4 +9,4 @@ Browsers have implemented WebRTC that allow requests to STUN servers be made tha
 
 Additionally, these STUN requests are made outside of the normal XMLHttpRequest procedure, so they are not visible in the developer console and cannot be blocked by plugins such as AdBlockPlus or Ghostery. This makes these types of requests available for online tracking, de-anonymize and trace users behind common privacy protection services such as: VPN, SOCKS Proxy, HTTP Proxy and in the past (TOR users).
 
-You can read my research on: https://voidsec.com/vpn-leak
+Read my research on: https://voidsec.com/vpn-leak
