@@ -1,8 +1,9 @@
 # WebRTC-Leak
 Check if your VPN leaks your IP address via the WebRTC technology.
-23% of tested VPNs leaks users' IPs
 
-## What this does
+# 23% of tested VPNs leaks users' IPs
+
+## WebRTC
 
 Browsers have implemented WebRTC that allow requests to STUN servers be made that will return the local and public IP addresses for the user. These request results are available to javascript, so you can now obtain a users local and public IP addresses in javascript. This demo: https://ip.voidsec.com/ is an example implementation of that.
 
